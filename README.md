@@ -47,7 +47,7 @@ Ica(dataset):
 
 In Distribution.py : 
 distri(dataset,name): It is used to tell whether name of dataset is continous or a discrete distribution 
-outlier(dataset,name): IT is used to calculate univariate dataset based on Z test in a name column of the dataset 
+outliers1(dataset,name): IT is used to calculate univariate dataset based on Z test in a name column of the dataset 
 hisplot1(dataset,name): IT is used to create a histagram for a name column
 lineplot(dataset,name):
 	"Used to do autoscaling and plot line for group of data passed as a set of columns in a list "
